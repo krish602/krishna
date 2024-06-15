@@ -1,0 +1,2 @@
+scrum master interacts with product own by looking up into jekins 
+this  tool provide differnt services
