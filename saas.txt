@@ -1,0 +1,12 @@
+import java .util. List;
+import org.springframework.stereotype.Autowired;
+import.org.springframeork.web.bind.annotation.PathVariable;
+import com.example.employee.model.Employee;
+import com.example.service.EmployeeService;
+@Requestcontroller
+@RequestMapping
+public class Employee Controller
+{
+@Autowired
+Employee Service empService;
+@RequestMapping(value="/employee",method=Request.POST
